@@ -1,0 +1,6 @@
+body{
+    background-color: rgb(220, 163, 243);
+}
+h3:hover{
+    background-color: grey;
+}
